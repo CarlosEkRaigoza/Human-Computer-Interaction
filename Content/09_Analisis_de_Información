@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <h1>Análisis de Información para analizar los datos obtenidos:</h1>
+
+    <h2>1. Categorización</h2>
+    <p>Flujo de Trabajo / Manejo de Expedientes</p>
+    <ul>
+        <li>La asignación de casos es realizada por la coordinación, quien selecciona al terapeuta más adecuado.</li>
+        <li>Se mantienen registros de manera actualizada y segura con acceso limitado y solo permitido según las autorizaciones.</li>
+        <li>Existen restricciones de privacidad que prohíben el acceso no autorizado a las carpetas de la clínica.</li>
+        <li>Los expedientes se actualizan progresivamente con documentos como reportes de sesión, evaluaciones y notas del terapeuta.</li>
+        <li>No hay un orden estricto en la organización física de los expedientes, lo que dificulta su búsqueda y recuperación.</li>
+    </ul>
+
+    <h2>Restricciones de Uso y Seguridad</h2>
+    <ul>
+        <li>Solo los terapeutas y su supervisor pueden acceder a cada expediente.</li>
+        <li>Existen normativas implícitas basadas en el código ético, pero no hay protocolos escritos para el caso de auditorías o requerimientos estadísticos.</li>
+        <li>No hay un mecanismo establecido para recuperar información en caso de pérdida de datos generados en el sistema físico.</li>
+    </ul>
+
+    <h2>Digitalización y Herramientas Tecnológicas</h2>
+    <ul>
+        <li>Los terapeutas tienden a prohibir el uso de dispositivos electrónicos en sesión, aunque algunos lo permiten.</li>
+        <li>En la mayoría de las sesiones, los terapeutas prefieren digitalizar sus reportes en un área designada.</li>
+        <li>No hay un escáner en la clínica, por lo que la digitalización de documentos físicos requiere un proceso burocrático lento.</li>
+        <li>La conectividad a internet es limitada y presenta restricciones en cuanto al acceso de dispositivos conectados.</li>
+    </ul>
+
+    <h2>2. Priorización</h2>
+    <p>Usar técnicas como MoSCoW (Must have, Should have, Could have, Won’t have).</p>
+
+    <h3 class="must-have">Must Have:</h3>
+    <ul>
+        <li>Implementación de un sistema digital para la gestión de expedientes clínicos.</li>
+        <li>Acceso controlado a los expedientes digitales según roles de usuario.</li>
+        <li>Digitalización de reportes y evaluaciones de sesiones con un almacenamiento seguro.</li>
+        <li>Integración de una base de datos que permita filtrar expedientes según criterios específicos.</li>
+        <li>Compatibilidad del sistema con acceso offline debido a la intermitencia del internet.</li>
+    </ul>
+
+    <h3 class="should-have">Should Have:</h3>
+    <ul>
+        <li>Implementación de escáneres para digitalizar documentos físicos esenciales.</li>
+        <li>Mejora en la organización física de expedientes mientras se realiza la transición a lo digital.</li>
+        <li>Disponibilidad de plantillas digitales para facilitar la generación de reportes.</li>
+    </ul>
+
+    <h3 class="could-have">Could Have:</h3>
+    <ul>
+        <li>Desarrollo de una aplicación móvil que permita acceder a expedientes con seguridad adicional.</li>
+        <li>Incorporación de un sistema de recordatorios y alertas para terapias pendientes.</li>
+    </ul>
+
+    <h3 class="wont-have">Won’t Have:</h3>
+    <ul>
+        <li>Digitalización de dibujos o pruebas proyectivas, ya que su valor diagnóstico depende del formato físico.</li>
+        <li>Uso de firma digital, dado que los reportes requieren impresión y firma física por normativa.</li>
+    </ul>
+
+    <h2>3. Validación con usuarios</h2>
+    <ul>
+        <li>Para garantizar que las necesidades identificadas sean precisas, se debe realizar sesiones de retroalimentación con terapeutas, supervisores y personal administrativo para validar la viabilidad de la digitalización del sistema y los cambios en el flujo de trabajo.</li>
+    </ul>
+</body>
+</html>
