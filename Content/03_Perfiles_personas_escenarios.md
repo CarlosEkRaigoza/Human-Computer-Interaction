@@ -5,45 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfiles de Usuarios y Personas</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
-            color: #ffffff;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #2c2c2c;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-        }
-        h1, h2, h3 {
-            color: #1e90ff;
-        }
-        h1 {
-            text-align: center;
-            border-bottom: 2px solid #1e90ff;
-            padding-bottom: 10px;
-        }
-        h2 {
-            border-left: 4px solid #1e90ff;
-            padding-left: 10px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        .section-title {
-            background-color: #1e90ff;
-            padding: 10px;
-            border-radius: 4px;
-            margin-top: 20px;
-        }
-    </style>
+        
+</style>
 </head>
 <body>
     <div class="container">
