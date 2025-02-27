@@ -1,8 +1,5 @@
 <html>
   <body>
-    <h2>Objetivo de la aplicación.</h2>
-<p>El objetivo principal del sistema es digitalizar y optimizar la gestión de expedientes clínicos en la Clínica de Psicología SEAP. El sistema busca mejorar la accesibilidad, seguridad y eficiencia en el manejo de la información clínica, permitiendo que los terapeutas puedan consultar y actualizar los datos de los pacientes de manera rápida. Además, reducirá la carga administrativa y eliminará los problemas asociados con la documentación en papel.</p>
-
 <h2>Identificación de usuarios.</h2>
 <p>Los usuarios del sistema se dividen en usuarios primarios y usuarios secundarios, cada uno con necesidades y expectativas específicas en la gestión de expedientes clínicos.</p>
 <h3>Usuarios Primarios.</h3>
