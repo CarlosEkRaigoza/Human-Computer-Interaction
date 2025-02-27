@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
+
+<html>
 <body>
     <div class="container">
         <h1>Perfiles de Usuarios</h1>
@@ -50,14 +45,6 @@
             <li><strong>Solución esperada:</strong> Un sistema que le proporcione reportes y métricas sobre la documentación de los terapeutas, así como herramientas para coordinar eficientemente la clínica.</li>
         </ul>
 
-   <h2>Persona 3: Ana, Secretaria administrativa</h2>
-        <ul>
-            <li><strong>Perfil:</strong> Administrativa con 5 años en la clínica, gestiona la agenda de los terapeutas.</li>
-            <li><strong>Objetivo:</strong> Programar y organizar citas de manera eficiente.</li>
-            <li><strong>Dolor:</strong> Errores en la programación debido a registros manuales.</li>
-            <li><strong>Solución esperada:</strong> Un sistema integrado que le permita gestionar citas y disponibilidad en tiempo real.</li>
-        </ul>
-
    <h2>Persona 4: Gabriela, Becaria de Terapia</h2>
         <ul>
             <li><strong>Perfil:</strong> Estudiante de licenciatura en psicología, con un rol de apoyo en la clínica.</li>
@@ -82,13 +69,6 @@
             <li>Luis necesita verificar que los terapeutas estén documentando correctamente los casos.</li>
             <li>Accede al panel de supervisión para revisar los expedientes pendientes de actualización.</li>
             <li>Deja comentarios y solicita de corrección en los registros incompletos.</li>
-        </ul>
-
-  <h2>Escenario 3: Gestión de citas (Secretaria)</h2>
-        <ul>
-            <li>Ana recibe una llamada de un paciente para reprogramar su cita.</li>
-            <li>Accede al sistema y revisa la disponibilidad del terapeuta.</li>
-            <li>Modifica la fecha en el sistema, notificando automáticamente al terapeuta y al paciente.</li>
         </ul>
 
    <h2>Escenario 4: Distribución de casos (Becaria)</h2>
