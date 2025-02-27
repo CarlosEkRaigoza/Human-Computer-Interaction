@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <style>
-        
-  </style>
 </head>
 <body>
     <h1>Análisis de Información para analizar los datos obtenidos:</h1>
