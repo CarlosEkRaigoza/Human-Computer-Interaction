@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Cuestionarios para Educción</h1>
+    <h1>Guía de preguntas para Educción</h1>
     <h2>Terapeuta</h2>
     <ul>
         <li>¿De qué manera aporta al proceso de creación de un expediente clínico?</li>
