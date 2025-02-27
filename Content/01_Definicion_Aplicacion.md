@@ -53,8 +53,7 @@
     <ul>
       <li>Plantillas personalizables para registros adaptados a la terapia psicológica.</li>
       <li>Alertas automatizadas para expedientes incompletos o pendientes.</li>
-	    <li>Acceso basado en roles para garantizar confidencialidad y una gestión adecuada de datos.</li>
-	    <li>Integración con herramientas de programación de citas para reducir la carga manual.</li>
+      <li>Acceso basado en roles para garantizar confidencialidad y una gestión adecuada de datos.</li>
     </ul>
 
 <h2>Motivación.</h2>
