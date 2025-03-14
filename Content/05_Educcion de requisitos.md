@@ -54,7 +54,7 @@ Para la correcta digitalización y optimización de la gestión de expedientes c
 - Validar los hallazgos mediante la retroalimentación de los usuarios.  
 
 ## Metas del Proceso de Educción  
-- Realizar al menos **[número]** entrevistas a terapeutas en formación y supervisores.  
+- Realizar al menos **[x numero de entrevistas]** entrevistas a terapeutas en formación y supervisores.  
 - Aplicar cuestionarios a personal administrativo y personal de secretaría.  
 - Llevar a cabo sesiones de observación en la clínica.  
 - Analizar los documentos actuales de gestión de expedientes.  
@@ -99,8 +99,6 @@ Para la correcta digitalización y optimización de la gestión de expedientes c
 ---
 
 # Priorización  
-
-Se recomienda usar técnicas como **MoSCoW** (*Must Have, Should Have, Could Have, Won’t Have*).  
 
 ### **Must Have** (Imprescindible):  
 - Implementación de un sistema digital para la gestión de expedientes clínicos.  
