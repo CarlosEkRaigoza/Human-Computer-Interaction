@@ -1,85 +1,148 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <h1>Definición de Requerimientos</h1>
-        <h2>Definición de Requerimientos de Usuario</h2>
-        <p>Los requerimientos de usuario se derivan de las necesidades y expectativas identificadas en la investigación con los distintos perfiles de usuarios del sistema. Se centran en garantizar accesibilidad, eficiencia y facilidad de uso en la digitalización de expedientes clínicos.</p>
-        <h2>Definición de Tipos de Requerimientos</h2>
-        <p>Se establecen dos tipos principales de requerimientos:</p>
-        <ul>
-            <li><strong>Requerimientos Funcionales:</strong> Especifican las acciones y procesos que el sistema debe permitir a los usuarios realizar.</li>
-            <li><strong>Requerimientos No Funcionales:</strong> Se refieren a aspectos como la usabilidad, seguridad, rendimiento y accesibilidad del sistema.</li>
-        </ul>
-        <h2>Requerimientos Funcionales</h2>
-        <ul>
-            <li>El sistema debe permitir a los terapeutas en formación registrar y consultar expedientes clínicos.</li>
-            <li>El sistema debe poder permitir que los coordinadores puedan revisar y aprobar los registros de los terapeutas.</li>
-            <li>El sistema debe permitir que la secretaría gestione citas y los cambios hechos sean notificados automáticamente a terapeutas y pacientes.</li>
-            <li>El sistema debe permitir que el personal de TI tenga acceso a la gestión de seguridad y mantenimiento del sistema.</li>
-            <li>El sistema debe permitir la asignación de casos a un determinado terapeuta y supervisor.</li>
-            <li>El sistema debe permitir mantener un historial de sesiones con reportes adjuntos.</li>
-            <li>El sistema debe permitir la evaluación del servicio al finalizar un tratamiento.</li>
-            <li>El sistema debe permitir el registro y almacenamiento de pruebas psicológicas (psicodiagnóstico, orientación vocacional).</li>
-            <li>El sistema debe permitir la gestión de documentos adicionales según el tipo de tratamiento.</li>
-            <li>El sistema debe permitir controlar el acceso a los expedientes según el rol del usuario (terapeuta, supervisor, coordinador, secretario).</li>
-            <li>El sistema debe permitir restringir el acceso a expedientes a terapeutas asignados y supervisores.</li>
-            <li>El sistema debe permitir registrar auditorías de acceso (quién visualizó o editó un expediente). </li>
-            <li>El sistema debe permitir implementar permisos para roles específicos (coordinación, secretaría, supervisores, terapeutas, becarios).</li>
-            <li>El sistema debe permitir proteger la información contra modificaciones no autorizadas.</li>
-            <li>El sistema debe permitir registrar y programar sesiones entre terapeutas y pacientes.</li>
-            <li>El sistema debe permitir que los terapeutas agreguen notas de sesión estructuradas.</li>
-            <li>El sistema debe permitir ofrecer plantillas personalizables para reportes de sesiones.</li>
-            <li>El sistema debe permitir generar y almacenar reportes de evaluación psicológica.</li>
-            <li>El sistema debe permitir gestionar la historia clínica del paciente según las guías establecidas.</li>
-            <li>El sistema debe permitir la carga de documentos en diferentes formatos (PDF, imágenes escaneadas).</li>
-            <li>El sistema debe permitir la gestión de la finalización de casos y marcar expedientes como cerrados.</li>
-            <li>El sistema debe permitir mantener los expedientes almacenados por 5 años antes de su eliminación.</li>
-            <li>El sistema debe permitir notificar a los terapeutas sobre documentos pendientes de entrega.</li>
-            <li>El sistema debe permitir la comunicación entre secretaría y terapeutas para validaciones.</li>
-            <li>El sistema debe permitir registrar cambios en la asignación de terapeutas en casos de transferencia.</li>
-            <li>El sistema debe permitir la digitalización de documentos físicos mediante escaneo.</li>
-            <li>El sistema debe permitir la carga y asociación de imágenes de pruebas psicológicas (dibujos, protocolos).</li>
-            <li>El sistema debe permitir la integración de herramientas de procesamiento de texto para la redacción de reportes.</li>
-            <li>El sistema debe permitir mantener una base de datos de motivos de consulta para estadísticas.</li>
-        </ul>
-        <h2>Requerimientos No Funcionales Relacionados con IHC</h2>
-        <h3>Usabilidad</h3>
-        <ul>
-            <li>La interfaz debe seguir principios de diseño centrado en el usuario, asegurando que terapeutas, administrativos y coordinadores puedan navegar sin dificultades.</li>
-            <li>Se deben reducir los pasos necesarios para realizar tareas críticas, como la consulta y actualización de expedientes, para minimizar la carga administrativa. </li>
-            <li>La interfaz debe contar con un sistema de ayuda o tutorial interactivo para nuevos usuarios. </li>
-            <li>Se deben utilizar elementos visuales claros y bien organizados, con una jerarquía de información comprensible</li>
-        </ul>
-        <h3>Seguridad</h3>
-        <ul>
-            <li>El sistema debe implementar cifrado en la base de datos y en la transmisión de datos para proteger la información de los pacientes contra accesos no autorizados.</li>
-            <li>Se debe aplicar control de acceso basado en roles (RBAC), asegurando que cada usuario solo pueda acceder a la información necesaria según su función.</li>
-            <li>El sistema debe cumplir con normativas éticas y legales de confidencialidad, como la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (LGPDPPSO) y estándares internacionales.</li>
-            <li>Las sesiones de usuario deben expirar automáticamente tras un período de inactividad para evitar accesos indebidos.</li>
-        </ul>
-        <h3>Rendimiento</h3>
-        <ul>
-            <li>El sistema debe ser capaz de gestionar múltiples consultas simultáneamente sin degradar la experiencia del usuario, optimizando la ejecución de consultas a la base de datos.</li>
-            <li>El tiempo de respuesta en la carga y consulta de expedientes no debe exceder los 2 segundos en condiciones normales de operación.</li>
-            <li>El sistema debe soportar el acceso concurrente de múltiples usuarios sin afectar la velocidad de procesamiento.</li>
-            <li>Se debe utilizar una arquitectura escalable que permita aumentar la capacidad de procesamiento según la demanda.</li>
-        </ul>
-        <h3>Portabilidad</h3>
-        <ul>
-            <li>El sistema debe ser accesible desde dispositivos móviles y computadoras, asegurando una experiencia fluida en diferentes resoluciones de pantalla.</li>
-            <li>Debe ser compatible con múltiples navegadores web, asegurando una experiencia fluida en diferentes resoluciones de pantalla.</li>
-            <li>El diseño debe ser responsivo, adaptándose automáticamente a pantallas de distintos tamaños sin comprometer la usabilidad.</li>
-        </ul>
-        <h3>Mantenibilidad</h3>
-        <ul>
-            <li>El sistema debe contar con un proceso sencillo de digitalización de documentos físicos, permitiendo la integración con escáneres y el reconocimiento óptico de caracteres (OCR).</li>
-            <li>El código debe estar bien documentado y seguir estándares de desarrollo que faciliten futuras modificaciones o ampliaciones del sistema.</li>
-            <li>Se debe permitir la incorporación de nuevos módulos sin afectar el rendimiento ni la estabilidad del sistema.</li>
-        </ul>
-        <h3>Confiabilidad</h3>
-        <ul>
-            <li> El sistema debe estar disponible al menos el 99.9% del tiempo en horarios de uso frecuente para garantizar la continuidad del servicio.</li>
-            <li>Se deben implementar mecanismos de recuperación ante fallos para evitar la pérdida de información en caso de errores del sistema.</li>
-        </ul>
-    </body>
-</html>
+# Definición de Requerimientos
+
+## Definición de Requerimientos de Usuario
+
+Los requerimientos de usuario se derivan de las necesidades y expectativas identificadas en la investigación con los distintos perfiles de usuarios del sistema. Se centran en garantizar accesibilidad, eficiencia y facilidad de uso en la digitalización de expedientes clínicos.
+
+## Definición de Tipos de Requerimientos
+
+Se establecen dos tipos principales de requerimientos:
+
+- **Requerimientos Funcionales:** Especifican las acciones y procesos que el sistema debe permitir a los usuarios realizar.
+- **Requerimientos No Funcionales:** Se refieren a aspectos como la usabilidad, seguridad, rendimiento y accesibilidad del sistema.
+
+## Requerimientos Funcionales
+
+**RF-1:** El sistema debe permitir a los terapeutas en formación registrar y consultar expedientes clínicos.
+
+**RF-2:** El sistema debe poder permitir que los coordinadores puedan revisar y aprobar los registros de los terapeutas.
+
+**RF-3:** El sistema debe permitir que la secretaría gestione citas y los cambios hechos sean notificados automáticamente a terapeutas y pacientes.
+
+**RF-4:** El sistema debe permitir que el personal de TI tenga acceso a la gestión de seguridad y mantenimiento del sistema.
+
+**RF-5:** El sistema debe permitir la asignación de casos a un determinado terapeuta y supervisor.
+
+**RF-6:** El sistema debe permitir mantener un historial de sesiones con reportes adjuntos.
+
+**RF-7:** El sistema debe permitir la evaluación del servicio al finalizar un tratamiento.
+
+**RF-8:** El sistema debe permitir el registro y almacenamiento de pruebas psicológicas (psicodiagnóstico, orientación vocacional).
+
+**RF-9:** El sistema debe permitir la gestión de documentos adicionales según el tipo de tratamiento.
+
+**RF-10:** El sistema debe permitir controlar el acceso a los expedientes según el rol del usuario (terapeuta, supervisor, coordinador, secretario).
+
+**RF-11:** El sistema debe permitir restringir el acceso a expedientes a terapeutas asignados y supervisores.
+
+**RF-12:** El sistema debe permitir registrar auditorías de acceso (quién visualizó o editó un expediente).
+
+**RF-13:** El sistema debe permitir implementar permisos para roles específicos (coordinación, secretaría, supervisores, terapeutas, becarios).
+
+**RF-14:** El sistema debe permitir proteger la información contra modificaciones no autorizadas.
+
+**RF-15:** El sistema debe permitir registrar y programar sesiones entre terapeutas y pacientes.
+
+**RF-16:** El sistema debe permitir que los terapeutas agreguen notas de sesión estructuradas.
+
+**RF-17:** El sistema debe permitir ofrecer plantillas personalizables para reportes de sesiones.
+
+**RF-18:** El sistema debe permitir generar y almacenar reportes de evaluación psicológica.
+
+**RF-19:** El sistema debe permitir gestionar la historia clínica del paciente según las guías establecidas.
+
+**RF-20:** El sistema debe permitir la carga de documentos en diferentes formatos (PDF, imágenes escaneadas).
+
+**RF-21:** El sistema debe permitir la gestión de la finalización de casos y marcar expedientes como cerrados.
+
+**RF-22:** El sistema debe permitir mantener los expedientes almacenados por 5 años antes de su eliminación.
+
+**RF-23:** El sistema debe permitir notificar a los terapeutas sobre documentos pendientes de entrega.
+
+**RF-24:** El sistema debe permitir la comunicación entre secretaría y terapeutas para validaciones.
+
+**RF-25:** El sistema debe permitir registrar cambios en la asignación de terapeutas en casos de transferencia.
+
+**RF-26:** El sistema debe permitir la digitalización de documentos físicos mediante escaneo.
+
+**RF-27:** El sistema debe permitir la carga y asociación de imágenes de pruebas psicológicas (dibujos, protocolos).
+
+**RF-28:** El sistema debe permitir la integración de herramientas de procesamiento de texto para la redacción de reportes.
+
+**RF-29:** El sistema debe permitir mantener una base de datos de motivos de consulta para estadísticas.
+
+## Requerimientos No Funcionales Relacionados con IHC
+
+### Usabilidad
+
+**RNF-1:** El sistema debe permitir la consulta y actualización de expedientes en un tiempo máximo de 5 minutos, medido desde el inicio de la sesión hasta la confirmación del cambio. 
+
+**RNF-2:** La interfaz debe ser intuitiva para nuevos usuarios, con un tiempo de aprendizaje menor a 2 días. Se logrará mediante: 
+
+    - Un tutorial interactivo en el primer acceso. 
+
+    - Un sistema de ayuda contextual con instrucciones específicas según la sección. 
+
+    - Indicaciones visuales para errores o acciones incompletas. 
+
+**RNF-3:** La organización de la información debe seguir una jerarquía clara: 
+
+    - Datos personales del paciente en la parte superior. 
+
+    - Historial clínico accesible en pestañas o secciones colapsables. 
+
+    - Opciones de acción destacadas con colores diferenciados (ejemplo: verde para confirmar, rojo para eliminar). 
+
+### Seguridad
+
+**RNF-4:** Se debe asegurar la confidencialidad de la información de los pacientes mediante un nivel de seguridad que cumpla con estándares de cifrado de al menos AES-256 en la base de datos 
+
+**RNF-5:** Se debe aplicar control de acceso basado en roles (RBAC), asegurando que cada usuario solo pueda acceder a la información necesaria según su función. 
+
+**RNF-6:** El sistema debe cumplir con normativas éticas y legales de confidencialidad, como la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (LGPDPPSO) y Normas ISO/IEC 27001 en gestión de seguridad de la información. 
+
+**RNF-7:** El sistema debe garantizar la seguridad de las sesiones de usuario mediante la protección contra accesos no autorizados. En caso de inactividad de más de 15 minutos, el sistema cerrará la sesión automáticamente y requerirá reautenticación. 
+
+### Rendimiento
+
+**RNF-8:** El sistema debe ser capaz de gestionar múltiples consultas simultáneamente sin degradar la experiencia del usuario, optimizando la ejecución de consultas a la base de datos. 
+
+**RNF-9:** El tiempo de respuesta en la carga y consulta de expedientes no debe exceder los 2 segundos en condiciones normales de operación. 
+
+**RNF-10:** El sistema debe soportar el acceso concurrente de múltiples usuarios sin afectar la velocidad de procesamiento. 
+
+**RNF-11:** Se debe utilizar una arquitectura escalable con balanceo de carga que permita soportar la demanda de las consultas. 
+
+### Portabilidad
+
+**RNF-12:** El sistema debe ser accesible desde dispositivos móviles y computadoras, asegurando una experiencia fluida en diferentes resoluciones de pantalla. 
+
+**RNF-13:** Debe ser compatible con múltiples navegadores web, asegurando una experiencia fluida en diferentes resoluciones de pantalla. 
+
+**RNF-14:** El diseño debe ser responsivo: 
+
+    - Elementos ajustables según la pantalla (ejemplo: menús desplegables en móviles). 
+
+    - Botones de acción con un tamaño mínimo de 44x44 píxeles en dispositivos táctiles. 
+
+    - Tipografía legible con un tamaño mínimo de 16px. 
+
+### Mantenibilidad
+
+**RNF-15:** El sistema debe proveer una de digitalización de documentos físicos eficiente y fácil de usar, con compatibilidad para escáneres y OCR, reduciendo el tiempo de procesamiento a un promedio de 2 minutos por documento. 
+
+**RNF-16:** El código debe estar bien documentado y seguir estándares de desarrollo que faciliten futuras modificaciones o ampliaciones del sistema como el Javadoc. 
+
+**RNF-17:** Se implementará una arquitectura modular que permita: 
+
+    - La adición de nuevos módulos sin afectar el rendimiento. 
+
+    - La actualización independiente de cada módulo sin afectar a otros. 
+
+### Confiabilidad
+
+**RNF-18:** El sistema debe estar disponible al menos el 99.9% del tiempo en horarios de uso frecuente (Lunes a Viernes de 9:00 - 15:00 horas), para garantizar la continuidad del servicio. 
+
+**RNF-19:** El sistema debe tener una alta confiabilidad y tolerancia a fallos, asegurando que no se pierda información en caso de errores, y con un tiempo de recuperación inferior a 10 minutos. 
+
+**RNF-20:** Debe contar con mecanismos de respaldo automático como Copia de seguridad y Restauración de datos en caso de falla crítica. 
