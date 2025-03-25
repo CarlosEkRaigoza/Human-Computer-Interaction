@@ -1,6 +1,6 @@
 # Human-Computer-Interaction
 
-<H1></H1> Jueves 20 de marzo de 2025</H1>
+<H1>Jueves 20 de marzo de 2025</H1>
 
 <p>Se definieron las actividades a desarrollar, asi como redefinir actividades previamente hechas para su posterior correccion</p>
 
