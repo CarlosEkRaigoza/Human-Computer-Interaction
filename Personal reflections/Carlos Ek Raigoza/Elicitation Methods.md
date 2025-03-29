@@ -19,7 +19,7 @@
     <p><strong>Reflection:</strong> The results were good, but we can improve the process by gathering more data using different techniques to avoid confusion or contradictions.</p>
     <h2>References</h2>
     <ul>
-        <li>Nielsen, J. (1994). <em>Usability Engineering</em>. Elsevier.</li>
+        <li>Chatbot UI Experiments. (2024). <em>Exploring AI-Generated UI</em>. YouTube. <a href="https://youtu.be/uwSY9XqQGXw">https://youtu.be/uwSY9XqQGXw</a></li>
     </ul>
 </body>
 </html>
