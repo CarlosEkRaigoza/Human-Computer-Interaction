@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>Reflection on Human-Computer Interaction (HCI) and Usability</h1>
     <h2>ProcessingHCI</h2>
     <h3>Relationship between HCI, Usability, and UX</h3>
     <p>
