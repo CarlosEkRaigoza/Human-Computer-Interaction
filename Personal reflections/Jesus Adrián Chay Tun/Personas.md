@@ -1,0 +1,13 @@
+# Human-Computer-Interaction
+
+# Personas: 
+
+Dentro del ámbito de desarrollo y elicitación de requerimientos, y por solicitud del profesor, tuvimos la necesidad de hacer un desarrollo de personas, pero simplificando las áreas por falta de información y tiempo (además de una falta de análisis y conocimiento de la técnica). 
+
+Pero entrando más de lleno en el tema; nos centramos en el uso de personas desde el área de necesidades y metas, las cuales por lo general venían altamente relacionadas entre sí, y que ciertamente nos ayudaron a determinar problemas para el desarrollo, frustraciones además de restricciones físicas y morales que se dan, esto fue altamente importante, ya que cambio totalmente la idea inicial que teníamos sobre el proyecto, dándonos un golpe de realida d importante para aterrizar nuestra ideas, y de paso darle un nuevo rumbo a las soluciones que se plantean tomando como base las limitaciones y restricciones que plantearon los usuarios. 
+
+En nuestro caso, para la recolección de personas tuvimos la oportunidad de hablar con varios trabajadores (estudiantes en prácticas y servicio, además de una becaria) sobre la situación de la clínica, así como, a través de unas preguntas de entrevistas previamente redactadas, ir preguntando sobre información que fuese relevante para nosotros, además de a través de la plática, tener una vista menos formal de las necesidades de los usuarios que emplearían el software, lo que permitió tener un poco más de información por sobre todo de las restricciones y puntos de vista de dichos usuarios. 
+
+Si bien esta información en bruto (tomando en cuenta que fue un pequeño rompecabezas el revisar uno por uno los apuntes de cada miembro del equipo para posteriormente sintetizarlo), con la síntesis y su posterior revisión, fue más fácil darnos una idea de las opiniones generales sobre las necesidades de la clínica, y con el elemento de una grabación de la reunión, así como su revisión para obtener puntos de vistas de cada usuario, permitió una definición de personas ligeramente menos sesgada en donde destacamos las necesidades que cada uno expresa, restricciones que consideran relevantes, así como las metas que tienen como usuarios. 
+
+Si bien es un proyecto que de momento está en pañales y hay mucho camino para definir bien que se haría, yo destacaría como ejemplo de uso la digitalización de expedientes la cual, añadida a la persona de la becaria de la clínica de psicología, que menciona que la clínica es bastante arcaica en sus procesos, se puede dar como una opción viable la digitalización de los expedientes como forma de actualización de los procesos y documentación de la clínica. 

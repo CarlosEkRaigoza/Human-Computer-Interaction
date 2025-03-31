@@ -1,0 +1,13 @@
+# Human-Computer-Interaction
+
+# UsabilityvsUX: 
+
+La relación entre los 3 conceptos se reduce a la coherencia entre sí, añadiendo que el conjunto de las 3 da como resultado una Interfaz sólida, fácil de entender y atractiva. 
+
+Pero partiendo de la base, la interacción humano computadora busca hacer un sistema digital que sea fácil de usar, y la UX es el cómo el usuario siente o percibe el entorno desarrollado (Como por ejemplo mensajes de confirmación y notificaciones que den alguna señalización al usuario), es decir, el grado de satisfacción que tiene con la experiencia obtenida. 
+
+Y finalmente, la usabilidad trabaja sobre el cómo el usuario recibe lo desarrollado a través del sobre las sensaciones obtenidas en la UX, es decir, que tan intuitivo lo sintió el usuario, el estado de la interfaz y libertad del usuario para usarlo, que tan intuitivo puede ser realizar alguna actividad, etc. 
+
+Una diferencia específica entre usabilidad y UX es que la usabilidad se enfoca en qué tan fácil y eficiente es usar un sistema, mientras que la UX incluye aspectos emocionales y de percepción del usuario al interactuar con el sistema, y partiendo de esto, se puede ejemplificar en el sistema de la clínica de psicología, del cual la usabilidad surge de una serie de botones los cuales sean fáciles de entender al tener escrito para que sirve cada botón (por ejemplo, el botón que diga “Guardar/modificar expedientes”), y UX seria ver alguna señal de confirmación (que siguiendo en el ejemplo de los expedientes, este notifique a través de un mensaje en pantalla que las modificaciones se han guardado correctamente).  
+
+El ejemplo que se podría implementar en mi caso sería algo similar a él agendar cita descrito anteriormente, pero más relacionado a la revisión de los expedientes que realizan los supervisores a los expedientes de los psicólogos (generalmente estudiantes a los cuales se les asigna un supervisor que realiza la revisión de sus expedientes para evaluar su desempeño), en el cual posterior a que el psicólogo a cargo hace modificaciones a los expedientes, este reciba una notificación de que sus notas y modificaciones han sido revisadas por el supervisor, y si ha aprobado sus modificaciones; este elemento podría ser medible en relación al tiempo estimado para que se dé la confirmación de la revisión por parte de los supervisores, así como el rango de aceptación que tienen dichas modificaciones (esto también ayudaría a detectar áreas de mejora, sobre todo si se tienen múltiples rechazos en las modificaciones de los expedientes). 
