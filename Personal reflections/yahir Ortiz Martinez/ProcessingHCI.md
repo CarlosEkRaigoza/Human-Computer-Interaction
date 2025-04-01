@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignments and Reflections - Yahir Ortiz Martinez</title>
+   
 </head>
 <body>
     <h2>ProcessingHCI Assignment 1 Yahir Ortiz Martinez date 01/03/2025</h2>
