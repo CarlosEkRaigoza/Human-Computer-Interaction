@@ -1,4 +1,12 @@
-<HTML><title>ProcessingHCI Assignment 1 Yahir Ortiz Martinez date 01/03/2025</title>
-<P>I consider that it was necessary to search for a technique so that the project I am working on has a better focus or better development, (lean Ux), based on the document, it is a technique focused on improving the user experience, one of its qualities is collaborative work, where designers, developers and other roles work together from the beginning. Based on that and on the development of the lean UX project, it tries to integrate user experience design into development teams, without interrupting the delivery speed, it also allows to quickly validate ideas with real users. It facilitates the integration of design and development within agile methodologies such as those I had already studied (Scrum or Kanban). Based on the technique, I consider that although this implies an additional effort in terms of roles and modifications, the benefit would be greater: less administrative burden for the therapists, a better user experience and greater data security. Yes, it is worth using this technique, because in the long term it translates into fewer errors, less frustration and fewer cumbersome physical processes.
-References: [1] J. Gothelf and J. Seiden, "Lean UX: Applying Lean Principles to Improve User Experience," O'Reilly Media, 2013. </P>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignments and Reflections - Yahir Ortiz Martinez</title>
+</head>
+<body>
+    <h2>ProcessingHCI Assignment 1 Yahir Ortiz Martinez date 01/03/2025</h2>
+    <p>I consider that it was necessary to search for a technique so that the project I am working on has a better focus or better development, (lean UX), based on the document, it is a technique focused on improving the user experience, one of its qualities is collaborative work, where designers, developers and other roles work together from the beginning. Based on that and on the development of the lean UX project, it tries to integrate user experience design into development teams, without interrupting the delivery speed, it also allows to quickly validate ideas with real users. It facilitates the integration of design and development within agile methodologies such as those I had already studied (Scrum or Kanban). Based on the technique, I consider that although this implies an additional effort in terms of roles and modifications, the benefit would be greater: less administrative burden for the therapists, a better user experience and greater data security. Yes, it is worth using this technique, because in the long term it translates into fewer errors, less frustration and fewer cumbersome physical processes. References: [1] J. Gothelf and J. Seiden, "Lean UX: Applying Lean Principles to Improve User Experience," O'Reilly Media, 2013.</p>
+</body>
+    </html>
